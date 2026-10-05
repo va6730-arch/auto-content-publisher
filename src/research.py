@@ -4,7 +4,7 @@ import json
 import requests
 import xml.etree.ElementTree as ET
 
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-flash-latest"
 
 
 def get_trends(geo="IN"):
